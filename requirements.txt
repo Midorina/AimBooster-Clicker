@@ -1,0 +1,5 @@
+keyboard
+pyautogui
+numpy
+cv2
+PIL
