@@ -1,0 +1,12 @@
+
+.idea/.gitignore
+.idea/aim_clicker.iml
+.idea/deployment.xml
+.idea/discord.xml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/other.xml
+.idea/vcs.xml
+old.py
